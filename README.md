@@ -6,7 +6,7 @@
 
 **Eksplorasi Data Science.** Katalog dataset dan eksperimen open-source. Dibangun untuk merekam perjalanan riset, membagikan insight, dan membangun masa depan berbasis data.
 
-🌐 **[Kunjungi Website DataSpace](https://oenm176.github.io/dataspace)** *(Ganti dengan link aslimu nanti)*
+🌐 **[Kunjungi Website DataSpace](https://oenm176.github.io/dataspace)** 
 
 ---
 
